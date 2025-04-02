@@ -8,7 +8,7 @@ Diseño adaptado a iOS y Android
 
 Modo claro/oscuro automático
 
-📲 Pantal![all-notes](https://github.com/user-attachments/assets/320bba89-04de-474c-b1bf-1f9368add94f)
+📲 Pantal![all-notes]
 la Principal
 Lista de Notas
 
